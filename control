@@ -1,0 +1,9 @@
+Package: com.junesiphone.noupdatebadge
+Name: NoUpdateBadge
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide update in settings
+Maintainer: JunesiPhone
+Author: JunesiPhone
+Section: Tweaks
