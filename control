@@ -1,9 +1,12 @@
 Package: com.junesiphone.noupdatebadge
 Name: NoUpdateBadge
-Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.1
 Architecture: iphoneos-arm
-Description: Hide update in settings
-Maintainer: JunesiPhone
-Author: JunesiPhone
-Section: Tweaks
+Depends: mobilesubstrate
+Conflicts:
+Description: Hides the red update badge in settings
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Addons (Tweaks)
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/noupdatebadge
+tag: cydia::paid
